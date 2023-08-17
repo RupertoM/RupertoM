@@ -1,7 +1,7 @@
 [ ![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/ram-unc-cs/)
 ### Welcome, my name is Ruperto Martinez! 👋
 
-- 🐏 I am student at the University of North Carolina at Chapel Hill!
+- 🐏 Student at the University of North Carolina at Chapel Hill!
 - 👨🏻‍💻 Computer Science Major!
 - 🧬 Applied Sciences and Engineering Minor!
 - 🏐 Avid and Competitive Volleyball Player!
