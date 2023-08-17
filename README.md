@@ -18,7 +18,7 @@
 [![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white)](https://www.python.org)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot)
 
-### ✍️ Proficiencies or Experience:
+### ✍️ Proficiencies and Experience:
 [![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud_Platform-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Google Kubernetes Engine](https://img.shields.io/badge/Google_Kubernetes_Engine-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://cloud.google.com/kubernetes-engine)
