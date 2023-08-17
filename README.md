@@ -7,10 +7,10 @@
 - 🏐 Avid and Competitive Volleyball Player!
 - 🤓 Always looking to learn new skills!
   
-### 🧙‍♂️ Main Programming Languages:
+### 🧙‍♂️ Main Programming Languages and Frameworks:
 [![Java](http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white)](https://www.java.com)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)](https://reactjs.org/)
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io/)
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
