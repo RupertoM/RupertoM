@@ -27,4 +27,4 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-- 📫 How to reach me: [ponce11@email.unc.edu](mailto:ponce11@email.unc.edu)
+### 📫 How to reach me: [ponce11@email.unc.edu](mailto:ponce11@email.unc.edu)
