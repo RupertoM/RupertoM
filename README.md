@@ -1,4 +1,3 @@
-[ ![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/ram-unc-cs/)
 ### Welcome, my name is Ruperto Martinez! 👋
 
 - 🐏 Student at the University of North Carolina at Chapel Hill!
@@ -27,4 +26,6 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira)
 
-### 📫 How to reach me: [ponce11@email.unc.edu](mailto:ponce11@email.unc.edu)
+### 📫 How to reach me: [ponce11@email.unc.edu](mailto:ponce11@email.unc.edu) 
+[ ![](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/ram-unc-cs/)
+
